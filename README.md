@@ -1,6 +1,7 @@
 # HR_Analytics_Dashboard
 
-The HR Analytics Dashboard project, utilizing Power BI, is centered on analyzing employee attrition within an organization. The goal is to identify patterns, trends, and factors contributing to employee turnover. By harnessing HR data and the capabilities of Power BI, the project aims to provide HR professionals with valuable insights, empowering them to make informed decisions and implement targeted strategies to reduce attrition rates.
+The HR Analytics Dashboard project, utilizing Power BI, is centered on analyzing employee attrition within an organization. 
+The goal is to identify patterns, trends, and factors contributing to employee turnover. By harnessing HR data and the capabilities of Power BI, the project aims to provide HR professionals with valuable insights, empowering them to make informed decisions and implement targeted strategies to reduce attrition rates.
 
 # Data Gathering:
 
