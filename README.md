@@ -5,6 +5,7 @@ patterns, trends, and factors contributing to employee turnover. By harnessing H
 provide HR professionals with valuable insights, empowering them to make informed decisions and implement targeted strategies to reduce attrition
 rates.
 
+
 # Data Gathering:
 
 Importing raw data .csv file into Power BI & transform to Power Query editor for cleaning and data processing.
@@ -59,7 +60,8 @@ Review High Attrition Roles: Examine roles like Laboratory Technicians, Sales Ex
 
 # Conclusion:
 This HR analytics dashboard provided valuable insights into employee data, aiding better decision-making and enhancing employee satisfaction and retention. 
-Addressing employee issues and fostering a positive work environment will improve performance and retention, contributing to the organization's success and profitability.
+Addressing employee issues and fostering a positive work environment will improve performance and retention, contributing to the organization's success
+and profitability.
 
 
 
