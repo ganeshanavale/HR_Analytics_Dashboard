@@ -53,9 +53,12 @@ Department filters were added to the top of the dashboard, enabling users to fil
 
 # HR Suggestions:
 Address Male Attrition: Investigate why more male employees are leaving and take steps to meet their needs.
+
 Retain Life Sciences and Medical Staff: Find out why attrition is high in these fields and implement retention strategies.
+
 Support 26-35 Age Group: Address the concerns of employees in this age group to improve career growth and retention.
-Review High Attrition Roles: Examine roles like Laboratory Technicians, Sales Executives, and Research Scientists to understand and mitigate high attrition.
+
+Enhance Training: Offer more training and development to boost skills and job satisfaction.
 
 # Conclusion:
 This HR analytics dashboard provided valuable insights into employee data, aiding better decision-making and enhancing employee satisfaction and retention. 
