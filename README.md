@@ -1,12 +1,14 @@
 # HR_Analytics_Dashboard
 
-The HR Analytics Dashboard project, utilizing Power BI, is centered on analyzing employee attrition within an organization. The goal is to identify patterns, trends, and factors contributing to employee turnover. By harnessing HR data and the capabilities of Power BI, the project aims to provide HR professionals with valuable insights, empowering them to make informed decisions and implement targeted strategies to reduce attrition rates.
+The HR Analytics Dashboard project, utilizing Power BI, is centered on analyzing employee attrition within an organization. The goal is to identify patterns, 
+trends, and factors contributing to employee turnover. By harnessing HR data and the capabilities of Power BI, the project aims to provide HR professionals with valuable insights, 
+empowering them to make informed decisions and implement targeted strategies to reduce attrition rates.
 
 # Data Gathering:
 
 Importing raw data .csv file into Power BI & transform to Power Query editor for cleaning and data processing.
 
-# Data Cleaning and Processing:
+# Data Preparation:
 
 To ensure accurate results, we cleaned up the data by addressing missing values and standardizing formats.
 
@@ -22,9 +24,11 @@ Added a new column: Made a new column that says '1' if someone left the company 
 
 # KPIs:
 
-To commence the analysis, I identified several key performance indicators (KPIs) crucial for monitoring both employee performance and attrition within the organization. Using Power BI, I visualized these KPIs with card visualizations. The metrics included employee headcount, attrition count, attrition rate, average age, average income, and average tenure. These indicators offer a comprehensive view of organizational dynamics, enabling informed decision-making and strategic planning to optimize workforce management and retention strategies.
+To commence the analysis, I identified several key performance indicators (KPIs) crucial for monitoring both employee performance and attrition within the organization.
+Using Power BI, I visualized these KPIs with card visualizations. The metrics included employee headcount, attrition count, attrition rate, average age, average income, and average tenure. 
+These indicators offer a comprehensive view of organizational dynamics, enabling informed decision-making and strategic planning to optimize workforce management and retention strategies.
 
-# Charts and Insights:
+# Data Visualizations and Findings:
 
 Various charts and visualizations were used to analyze employee data, yielding the following key insights:
 
@@ -52,7 +56,8 @@ Support 26-35 Age Group: Address the concerns of employees in this age group to 
 Review High Attrition Roles: Examine roles like Laboratory Technicians, Sales Executives, and Research Scientists to understand and mitigate high attrition.
 
 # Conclusion:
-This HR analytics dashboard provided valuable insights into employee data, aiding better decision-making and enhancing employee satisfaction and retention. Addressing employee issues and fostering a positive work environment will improve performance and retention, contributing to the organization's success and profitability.
+This HR analytics dashboard provided valuable insights into employee data, aiding better decision-making and enhancing employee satisfaction and retention. 
+Addressing employee issues and fostering a positive work environment will improve performance and retention, contributing to the organization's success and profitability.
 
 
 
